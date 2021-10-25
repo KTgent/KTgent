@@ -8,4 +8,4 @@
 KTgent/KTgent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, Im KTgent. I am interested in web developmwnr and mobile development and I am currently learning html, css and javascript. I am not looking to collaborate on anything as yet but any advice on anything and possible any tips would be welcomed. You can reach me at KTgent on githum.
+Hi, Im KTgent. I am interested in web development and mobile development and I am currently learning html, css and javascript. I am not looking to collaborate on anything as yet but any advice on anything and possible any tips would be welcomed. You can reach me at KTgent on github.
